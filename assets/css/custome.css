@@ -1,0 +1,7 @@
+.sablonImg {
+    border-radius: 0 10000px 0 10000px;
+}
+
+.cuttingImg {
+    border-radius: 10000px 0 10000px 0;
+}
