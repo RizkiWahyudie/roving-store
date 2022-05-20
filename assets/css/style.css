@@ -1207,7 +1207,7 @@ p.form-message.error {
 }
 
 .footer-about .logo img {
-  width: 160px; }
+  width: 300px; }
 
 .footer-about .text {
   color: #fff;
@@ -1238,6 +1238,9 @@ p.form-message.error {
 .link-wrapper {
   padding: 0 35px; }
   @media (max-width: 767px) {
+    .footer-quick {
+      display: none;
+    }
     .link-wrapper {
       padding: 0;
       padding-right: 50px; } }
